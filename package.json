@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.11",
-    "electron": "^6.0.0",
+    "electron": "^11.5.0",
     "jest": "^24.5.0",
     "rimraf": "^2.6.3",
     "standard": "^5.4.1",
